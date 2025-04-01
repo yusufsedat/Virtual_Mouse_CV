@@ -36,7 +36,3 @@ pip install opencv-python mediapipe pyautogui
 1. **Gesture Customization:** Allow users to define custom gestures.
 2. **Multi-hand Support:** Detect gestures with both hands.
 3. **Gesture Calibration:** Dynamically adjust sensitivity based on hand size and distance from the camera.
-
-# Virtual Mouse Demo
-
-![Virtual Mouse in Action](./Demo_Gif/Demo_Gif.gif)
